@@ -1,0 +1,8 @@
+trading_bot/
+├── .env
+├── .gitignore
+├── bot.py
+├── config.py
+├── logger.py
+├── requirements.txt
+└── README.md

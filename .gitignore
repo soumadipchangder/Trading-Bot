@@ -1,0 +1,9 @@
+# Secret environment
+.env
+
+# Logs
+bot.log
+
+# Python artifacts
+__pycache__/
+*.py[cod]
