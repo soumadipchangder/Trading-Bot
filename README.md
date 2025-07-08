@@ -8,5 +8,5 @@ A simple Python CLI bot that places MARKET, LIMIT, and STOP-LIMIT orders on Bina
 
 1. **Clone** this repo:
    ```bash
-   git clone [https://github.com/soumadipchangder/Trading-Bot]
+   git clone https://github.com/soumadipchangder/Trading-Bot
    cd Trading-Bot
